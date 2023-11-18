@@ -9,7 +9,7 @@ Therefore, the combined dataset is stored in OsloMet Onedrive. The link can be f
 OneDrive Link: [ModelNet40+ShapeNet](https://hioa365-my.sharepoint.com/:f:/g/personal/s371145_oslomet_no/EmG1X7M9udFGiRuH8zP7zPABjvtgTVy4Ge6-lSa0a21cqQ)
 
 ## Script Description
-The PointNet - CNN trained models were performed on different computers. All the scripts are documented and stored in '*01.Submitted_Files*' folder.
+The PointNet - CNN trained models were performed on different computers. All the scripts are documented in '*.ipynb*' format and stored in '*01.Submitted_Files*' folder.
 
 Please update the directory with the corrsponding user name in order to run the script successfully!
 
