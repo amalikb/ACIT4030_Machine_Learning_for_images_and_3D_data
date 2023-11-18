@@ -23,7 +23,7 @@ pip install trimesh
 pip install matplotlib
 ````
 
-After the package installation, please run this code block to initiate the procedure of loading, data parsing, training/testing and validating the models
+After the package installation, please run this code block to initiate the procedures of loading, data parsing, training/testing and validating the models
 ````bash
 import os
 import glob
