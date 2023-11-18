@@ -22,3 +22,17 @@ pip install tensorflow
 pip install trimesh
 pip install matplotlib
 ````
+
+After the package installation, please run this code block to initiate the procedure of loading, data parsing, training/testing and validating the models
+````bash
+import os
+import glob
+import trimesh
+import numpy as np
+import tensorflow as tf
+from tensorflow import keras
+from tensorflow.keras import layers
+from matplotlib import pyplot as plt
+
+tf.random.set_seed(1234)
+````
