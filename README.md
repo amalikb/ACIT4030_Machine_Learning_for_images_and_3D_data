@@ -11,6 +11,8 @@ OneDrive Link: [ModelNet40+ShapeNet](https://hioa365-my.sharepoint.com/:f:/g/per
 ## Script Description
 The PointNet - CNN trained models were performed on different computers. All the scripts are documented in '*.ipynb*' format and stored in '*01.Submitted_Files*' folder.
 
+The trained models can be found in '*02.Trained_Models*' folder.
+
 Please update the directory with the corrsponding user name in order to run the script successfully!
 
 ## Python Package Installation
