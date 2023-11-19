@@ -13,7 +13,7 @@ The PointNet - CNN trained models were performed on different computers. All the
 
 The trained models can be found in '*02.Trained_Models*' folder.
 
-Please update the directory with the corrsponding user name in order to run the script successfully!
+Please update the directory with the corresponding user name in order to run the script successfully!
 
 ## Python Package Installation
 Use the package manager [pip](https://pip.pypa.io/en/stable/) to install essential packages if it is needed.
